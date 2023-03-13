@@ -90,9 +90,9 @@ Discord message sent successfully! Status: 200
 As we can see from the log above, [INJUSDT] price has pumped for +6.41% at 1h timeframe.
 
 </br> Windows notification look like this:
-</br>![win-notification](/img/win-notification.jpg)
+</br>![win-notification](/img/win-notification.JPG)
 </br>Discord message look like this:
-</br>![win-notification](/img/discord-notification.jpg)
+</br>![discord-notification](/img/discord-notification.JPG)
 
 Considering that we are in Bear market, I set:
 ```
