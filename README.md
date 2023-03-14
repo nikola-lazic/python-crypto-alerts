@@ -18,6 +18,7 @@ Using this script isn't financial advice in any case, it is for educational purp
 - [Requirements](#requirements)
 - [How to use?](#how-to-use)
 - [How APIs are set?](#how-apis-are-set)
+- [Useful snippets](#useful-snippets)
 
 ---
 
@@ -109,3 +110,11 @@ For this script Binance API and their Secret code is must. Good thing, it's free
 </br> All credentials are stored into credentials.py. It look's like this:
 </br>![credentials](/img/creds.png)
 NOTE: Discord token have string "Bot " before token. Otherwise, it won't work.
+
+---
+
+### **Useful snippets**
+I added 3 useful snippets, which are also used in this project:
+- Discord_message.py for sending a message into Discord channel.
+- Get_all_crypto_pairs.py for getting all USDT crypto pairs from Binance, without BUSD pairs.
+- Percentage_change_of_price.py for checking the percentage change of price. Data are stored in dictionary.
